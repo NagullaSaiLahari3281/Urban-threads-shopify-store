@@ -24,7 +24,8 @@ HTML & CSS (via theme customization)
 
 📸 Screenshots
 🏠 Home Page
-📂 Collection / Category Page
+🗃️ Collection Page
+📁 Category Page
 🛍️ Product Page
 🛒 Cart Page
 
