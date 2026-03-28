@@ -26,18 +26,23 @@ HTML & CSS (via theme customization)
 
 ### 🏠 Homepage
 ![Homepage](home.jpg)
+<br>
 
 ### 🛍 Category Page
-![Category](category.jpg)
+![Category](category.jpg
+<br>
 
 ### 👶 Collection Page
 ![Collection](collection.jpg)
+<br>
 
 ### 👗 Product Page
-![Product](product.jpg)
+![Product](product.jpg
+<br>
 
 ### 🛒 Cart Page
 ![Cart](cart.jpg)
+<br>
 
 📖 What I Learned
 Creating and managing products with variants (size, color, fabric)
