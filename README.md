@@ -22,12 +22,22 @@ HTML & CSS (via theme customization)
 
 🔒 Password: Test@123
 
-📸 Screenshots
-🏠 Home Page
-🗃️ Collection Page
-📁 Category Page
-🛍️ Product Page
-🛒 Cart Page
+## 📸 Screenshots
+
+### 🏠 Homepage
+![Homepage](home.jpg)
+
+### 🛍 Category Page
+![Category](category.jpg)
+
+### 👶 Collection Page
+![Collection](collection.jpg)
+
+### 👗 Product Page
+![Product](product.jpg)
+
+### 🛒 Cart Page
+![Cart](cart.jpg)
 
 📖 What I Learned
 Creating and managing products with variants (size, color, fabric)
@@ -40,6 +50,3 @@ Understanding real-world e-commerce store setup using Shopify
 
 This project provided hands-on experience in building and managing a real-world e-commerce store using Shopify. It enhanced my understanding of product management, UI/UX design, and online store optimization.
 
-🙌 Acknowledgment
-
-This project was developed as part of an internship assignment, focusing on improving practical knowledge in Shopify store development and e-commerce design.
