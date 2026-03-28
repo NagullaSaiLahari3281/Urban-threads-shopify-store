@@ -14,14 +14,18 @@ This project is a fully functional e-commerce website built using Shopify (Dawn 
 - 💳 Cash on Delivery (COD) payment option enabled  
 - 💰 Discount pricing using “compare at price” feature  
 - 📱 Fully mobile-responsive and user-friendly design
+   <br>
+## 🛠 Tech Stack
 
-🛠️ Tech Stack:
-Shopify (Dawn Theme)
-Liquid (Shopify templating engine)
-HTML & CSS (via theme customization)
-🌐 Live Store:
-🔗 https://urban-threads-10322.myshopify.com
-🔒 Password: Test@123
+- 🛍️ Shopify (Dawn Theme)  
+- 💧 Liquid (Shopify templating language)  
+- 🌐 HTML5  
+- 🎨 CSS3 (Theme customization)
+<br>
+## 🌐 Live Store
+
+- 🔗 **Store Link:**(https://urban-threads-10322.myshopify.com)  
+- 🔐 **Password:** Test@123
 
 ## 📸 Screenshots
 
