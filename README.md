@@ -29,7 +29,7 @@ HTML & CSS (via theme customization)
 <br>
 
 ### 🛍 Category Page
-![Category](category.jpg
+![Category](category.jpg)
 <br>
 
 ### 👶 Collection Page
@@ -37,7 +37,7 @@ HTML & CSS (via theme customization)
 <br>
 
 ### 👗 Product Page
-![Product](product.jpg
+![Product](product.jpg)
 <br>
 
 ### 🛒 Cart Page
