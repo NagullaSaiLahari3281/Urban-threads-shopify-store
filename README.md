@@ -3,16 +3,17 @@
 📌 Project Overview:
 This project is a fully functional e-commerce website built using Shopify (Dawn Theme). It represents a modern fashion store with well-structured product listings, collections, and a user-friendly shopping experience.
 
-🚀 Features:
-🏠 Responsive homepage with a proportional promotional banner
-🎯 Trend-focused sections showcasing latest fashion styles
-🛍️ Product pages with detailed descriptions, pricing, and variants (size, color, fabric)
-📂 Well-organized collections (Men, Women, Kids, New Arrivals)
-🔍 Easy navigation with dropdown menus
-🛒 Cart page for order review and quantity management
-💳 Cash on Delivery (COD) payment option enabled
-💰 Discount pricing using “compare at price” feature
-📱 Fully mobile-responsive and user-friendly design
+## 🚀 Features
+
+- 🏠 Responsive homepage with a proportional promotional banner  
+- 🎯 Trend-focused sections showcasing latest fashion styles  
+- 🛍️ Product pages with detailed descriptions, pricing, and variants (size, color, fabric)  
+- 📂 Well-organized collections (Men, Women, Kids, New Arrivals)  
+- 🔍 Easy navigation with dropdown menus  
+- 🛒 Cart page for order review and quantity management  
+- 💳 Cash on Delivery (COD) payment option enabled  
+- 💰 Discount pricing using “compare at price” feature  
+- 📱 Fully mobile-responsive and user-friendly design
 
 🛠️ Tech Stack:
 Shopify (Dawn Theme)
