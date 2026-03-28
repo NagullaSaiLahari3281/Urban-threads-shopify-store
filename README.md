@@ -1,25 +1,25 @@
 🛍️ Shopify E-commerce Store – Urban Threads
 
-📌 Project Overview
+📌 Project Overview:
 This project is a fully functional e-commerce website built using Shopify (Dawn Theme). It represents a modern fashion store with well-structured product listings, collections, and a user-friendly shopping experience.
 
-🚀 Features
-🏠 Responsive Home Page with promotional banner
-🛒 Product pages with detailed descriptions, pricing, and size variants
-📂 Organized collections (Men, Women, Kids, New Arrivals)
-🔍 Easy-to-use navigation with dropdown menu
-🛒 Cart page for order review
-💰 Discount pricing using “compare at price”
-💳 Cash on Delivery (COD) payment method enabled
-📱 Fully mobile-responsive design
-🛠️ Tech Stack
+🚀 Features:
+🏠 Responsive homepage with a proportional promotional banner
+🎯 Trend-focused sections showcasing latest fashion styles
+🛍️ Product pages with detailed descriptions, pricing, and variants (size, color, fabric)
+📂 Well-organized collections (Men, Women, Kids, New Arrivals)
+🔍 Easy navigation with dropdown menus
+🛒 Cart page for order review and quantity management
+💳 Cash on Delivery (COD) payment option enabled
+💰 Discount pricing using “compare at price” feature
+📱 Fully mobile-responsive and user-friendly design
+
+🛠️ Tech Stack:
 Shopify (Dawn Theme)
 Liquid (Shopify templating engine)
 HTML & CSS (via theme customization)
-🌐 Live Store
-
+🌐 Live Store:
 🔗 https://urban-threads-10322.myshopify.com
-
 🔒 Password: Test@123
 
 ## 📸 Screenshots
