@@ -2,6 +2,10 @@
 
 📌 Project Overview:
 This project is a fully functional e-commerce website built using Shopify (Dawn Theme). It represents a modern fashion store with well-structured product listings, collections, and a user-friendly shopping experience.
+## 🌐 Live Store
+
+- 🔗 **Store Link:**(https://urban-threads-10322.myshopify.com)  
+- 🔐 **Password:** Test@123
 
 ## 🚀 Features
 
@@ -22,10 +26,7 @@ This project is a fully functional e-commerce website built using Shopify (Dawn 
 - 🌐 HTML5  
 - 🎨 CSS3 (Theme customization)
 <br>
-## 🌐 Live Store
 
-- 🔗 **Store Link:**(https://urban-threads-10322.myshopify.com)  
-- 🔐 **Password:** Test@123
 
 ## 📸 Screenshots
 
@@ -59,4 +60,6 @@ Understanding real-world e-commerce store setup using Shopify
 🎯 Conclusion
 
 This project provided hands-on experience in building and managing a real-world e-commerce store using Shopify. It enhanced my understanding of product management, UI/UX design, and online store optimization.
+
+Author:Nagulla Sai Lahari
 
