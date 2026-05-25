@@ -57,9 +57,12 @@ Organizing collections and navigation menus
 Designing responsive and user-friendly layouts
 Understanding real-world e-commerce store setup using Shopify
 
+👩‍💻 Author:<br>
+
+Nagulla Sai Lahari
+
 🎯 Conclusion
 
 This project provided hands-on experience in building and managing a real-world e-commerce store using Shopify. It enhanced my understanding of product management, UI/UX design, and online store optimization.
 
-Author:Nagulla Sai Lahari
 
